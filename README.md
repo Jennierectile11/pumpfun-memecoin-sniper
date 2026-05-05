@@ -14,6 +14,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/polymarket-bot/main/banner.png" width="100%" alt="PumpFun Sniper Bot Banner">
+</div>
+
+---
+
 ## ✨ Features
 
 | Feature                    | Status     | Description |
